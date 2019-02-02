@@ -19,4 +19,4 @@ Content in the first column | Content in the second column
 ---
 [Readme](README.md)
 
-[Bat Guy](bat guy.jpg)
+[Bat Guy](batguy.jpg)

@@ -17,3 +17,6 @@ Content in the first column | Content in the second column
 `<print(helloworld)>` element here instead.
 
 ---
+[Readme](README.md)
+
+[Bat Guy]()
